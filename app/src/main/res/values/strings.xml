@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyStorekeeper</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_report">Report</string>
+    <string name="action_exit">Exit</string>
+    <string name="title_activity_unit">Unit</string>
+    <string name="title_activity_report">Report</string>
+    <string name="title_activity_sing_in">SingIn</string>
+    <string name="unit_detail">Unit detail</string>
+    <string name="title_activity_unit_detail">Detail</string>
+    <string name="quest_string">You logged as GUEST.\nProgramm is workin in demo mode.\nYou must register for fully functional working.</string>
+    
+    <string name="error_email">Enter valid email address</string>
+    
+    <string name="item_not_found">Item not found in database, you must create new.</string>
+    
+    <string name="main_label_1">For activating scanner barcode leave the empty field and click button</string>
+    <string name="main_button_text">Scan / check</string>
+    <string name="main_singin_text">Sing in</string>
+    <string name="main_report_text">Reports</string>
+
+    <string name="report_label_text">Request summary report for your products</string>
+    <string name="report_rb1">Daily report</string>
+    <string name="report_rb2">Monthly report</string>
+    <string name="report_rb3">Report by item</string>
+    <string name="report_rb4">All my storage</string>
+    <string name="report_get_button">Get report via email</string>
+
+    <string name="singin_email_hint">Email address</string>
+    <string name="singin_pwd_hint">Password</string>
+    <string name="singin_retypepwd_hint">Retype password</string>
+    <string name="singin_button_text">Sing in</string>
+    <string name="singup_button_text">Sing up</string>
+    <string name="singin_checkbox_label">create as new account</string>
+    <string name="singin_error_retypepassword">Error retype password</string>
+
+    <string name="receipt_header1">Receipt items</string>
+    <string name="receipt_header2">Expense items</string>
+    <string name="receipt_barcode_label">Barcode</string>
+    <string name="receipt_itemname_label">Item name</string>
+    <string name="receipt_trademark_label">Trademark</string>
+    <string name="receipt_count_label"> preset 10 units </string>
+    <string name="receipt_add_button">Add to storage</string>
+    <string name="receipt_del_button">Delete from storage</string>
+
+    <string name="detail_label">Report for unit</string>
+
+
+</resources>

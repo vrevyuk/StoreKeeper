@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Кладовщик</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_report">Отчеты</string>
+    <string name="action_exit">Выход</string>
+    <string name="title_activity_unit">Товар</string>
+    <string name="title_activity_report">Отчет</string>
+    <string name="title_activity_sing_in">Вход</string>
+    <string name="unit_detail">Детализация</string>
+    <string name="title_activity_unit_detail">Детализация</string>
+    <string name="quest_string">Программа работает в ДЕМО режиме так, как Вы зарегистрированы как ГОСТЬ. Зарегистрируйтесь для полнофункциональной версии программы.</string>
+    
+    <string name="error_email">Некорректный адрес email</string>
+    
+    <string name="item_not_found">Товар не найден в каталоге. Необходимо создать новую запись.</string>
+    
+    <string name="main_label_1">Для активации сканера штрихкода оставьте пустое поле ввода и нажмите кнопку.</string>
+    <string name="main_button_text">Скан \ найти</string>
+    <string name="main_singin_text">Вход</string>
+    <string name="main_report_text">Отчеты</string>
+
+    <string name="report_label_text">Суммарные отчеты</string>
+    <string name="report_rb1">Отчет за день</string>
+    <string name="report_rb2">Отчет за месяц</string>
+    <string name="report_rb3">Отчет по отдльным товарам</string>
+    <string name="report_rb4">Весь товар</string>
+    <string name="report_get_button">Отправить отчет на email</string>
+
+    <string name="singin_email_hint">Электронный адрес</string>
+    <string name="singin_pwd_hint">Пароль</string>
+    <string name="singin_retypepwd_hint">Повторно пароль</string>
+    <string name="singin_button_text">Вход</string>
+    <string name="singup_button_text">Регистрация</string>
+    <string name="singin_checkbox_label">войти как новый пользователь</string>
+    <string name="singin_error_retypepassword">Повторите ввод пароля</string>
+
+    <string name="receipt_header1">Приход товара</string>
+    <string name="receipt_header2">Расход товара</string>
+    <string name="receipt_barcode_label">Штрихкод</string>
+    <string name="receipt_itemname_label">Название товара</string>
+    <string name="receipt_trademark_label">Торговая марка</string>
+    <string name="receipt_count_label"> preset 10 units </string>
+    <string name="receipt_add_button">Оформить приход</string>
+    <string name="receipt_del_button">Оформить расход</string>
+
+    <string name="detail_label">Отчеты по товарам</string>
+
+
+</resources>
